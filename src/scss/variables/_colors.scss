@@ -1,0 +1,14 @@
+// Override Bootstrap color system
+
+$pink: rgb(175, 118, 115);
+$black: #000000;
+
+// Override Bootstrap default state colors
+
+$primary: $pink;
+
+// Add colors to the color map
+
+$theme-colors: (
+    "black": $black,
+);
